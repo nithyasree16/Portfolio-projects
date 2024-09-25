@@ -1,5 +1,5 @@
 # powerbi-projects
-# Mental health Dashboard
+Mental health Dashboard - This dashboard explores the impact of various factors on the mental health of students across all genders, including social media usage, sleep hours, and the work environment.
 
 ### Dashboard Link : 
 
