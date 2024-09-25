@@ -3,7 +3,7 @@ Mental health Dashboard - This dashboard explores the impact of various factors 
 
 ### Dashboard Link : https://github.com/nithyasree16/powerbi-projects/blob/main/Mental%20health.pbix
 
-## Problem Statement
+## Problem Statement 
 
 This dashboard explores the impact of various factors on the mental health of students across all genders, including social media usage, sleep hours, and the work environment.
 
